@@ -3,7 +3,7 @@
 
     <!-- BANNER -->
     <q-img
-      src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1600&q=80"
+      src="https://plus.unsplash.com/premium_photo-1683619761464-6b7c9a2716a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhhbWJ1cmd1ZXJ8ZW58MHx8MHx8fDA%3D"
       class="banner"
     >
       <div class="absolute-full flex flex-center">
