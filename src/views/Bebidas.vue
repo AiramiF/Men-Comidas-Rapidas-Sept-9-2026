@@ -119,7 +119,7 @@
                 $5.000
               </div>
 
-              <q-badge color="blue">
+              <q-badge color="amber-7">
                 Refrescante
               </q-badge>
 

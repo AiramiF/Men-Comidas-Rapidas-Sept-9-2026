@@ -177,7 +177,7 @@
             <q-card-section>
 
               <q-badge
-                color="blue"
+                color="amber-7"
                 class="q-mb-sm"
               >
                 PROMOCIÓN
